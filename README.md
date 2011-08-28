@@ -30,7 +30,7 @@ further details.
 
 [1]: http://en.wikipedia.org/wiki/JSON-RPC
 [2]: https://github.com/martinkozak/json-rpc-objects
-[6]: http://github.com/martinkozak/json-rpc-objects-yaml/issues
+[6]: http://github.com/martinkozak/json-rpc-objects-psych/issues
 [7]: http://www.martinkozak.net/
 
 [11]: http://yaml.org/
